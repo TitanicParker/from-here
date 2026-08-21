@@ -2,7 +2,7 @@
 
 This repository marks a change in the purpose of my work on this case.
 
-For a number of years I have been trying to understand the clinical and documentary record: what happened, what was decided, what was left unresolved, what later evidence showed, and how the account of the case developed over time.
+Since March 2025 I have been trying to understand the clinical and documentary record: what happened, what was decided, what was left unresolved, what later evidence showed, and how the account of the case developed over time.
 
 On **21 August 2026**, I sent the case back to Daly Hempenstall Solicitors LLP seeking urgent advice on limitation, independent neurological evidence, preservation of evidence and whether protective proceedings or other immediate steps are required.
 
